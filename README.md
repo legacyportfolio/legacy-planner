@@ -1,6 +1,6 @@
 # Legacy Portfolio Planner – Nigerian Stocks Edition
 
-The web app version of the Legacy Portfolio Planner (version 2.0.1).
+The web app version of the Legacy Portfolio Planner (version 2.1.0).
 
 - **Open the web app:** https://legacyportfolio.github.io/legacy-planner/
 - **Windows and Mac installers:** see [Releases](https://github.com/legacyportfolio/legacy-planner/releases/latest)
